@@ -11,10 +11,11 @@ A simple stopwatch app that displays minutes, seconds, and milliseconds. Users c
 ✅ Lightweight and responsive
 
 **Screenshots**
-
+<p align="center">
 <img src="https://github.com/Chauhanprince00/CODECRAFT_AD_03/blob/master/Screenshot_20250306_093708.png" width="300">
 <img src="https://github.com/Chauhanprince00/CODECRAFT_AD_03/blob/master/Screenshot_20250306_093752.png" width="300">
 <img src="https://github.com/Chauhanprince00/CODECRAFT_AD_03/blob/master/Screenshot_20250306_093806.png" width="300">
+</p>
 
 **Technologies Used**
 Kotlin
