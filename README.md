@@ -1,14 +1,14 @@
 **Stopwatch App**
 
 
-**Description**
-A simple stopwatch app that displays minutes, seconds, and milliseconds. Users can start, pause, and stop the stopwatch with an easy-to-use interface.
+-**Description**
+-A simple stopwatch app that displays minutes, seconds, and milliseconds. Users can start, pause, and stop the stopwatch with an easy-to-use interface.
 
-**Features**
-✅ Start, Pause, and Stop functionality
-✅ Millisecond precision timing
-✅ User-friendly and minimal UI
-✅ Lightweight and responsive
+-**Features**
+-✅ Start, Pause, and Stop functionality
+-✅ Millisecond precision timing
+-✅ User-friendly and minimal UI
+-✅ Lightweight and responsive
 
 **Screenshots**
 <p align="center">
