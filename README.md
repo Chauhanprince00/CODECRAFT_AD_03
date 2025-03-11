@@ -20,7 +20,6 @@ A **simple and efficient** stopwatch app that displays **minutes, seconds, and m
   <img src="https://github.com/Chauhanprince00/CODECRAFT_AD_03/blob/master/Screenshot_20250306_093806.png" width="250">
 </p>  
 
-_(Images resized for better readability)_  
 
 ---
 
